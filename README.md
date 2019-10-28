@@ -1,1 +1,1 @@
-Some SQL
+Some SQL quiries
